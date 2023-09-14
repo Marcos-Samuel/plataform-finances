@@ -1,0 +1,97 @@
+.entries {
+    color: #7B61FF;
+}
+
+.exits {
+    color: #FA8C10;
+}
+
+.container-table {
+
+    display: flex;
+    overflow-x: auto;
+}
+
+table {
+    width: 60%;
+
+    margin-right: 260px;
+    margin-top: 35px;
+
+}
+
+thead {
+
+    height: 5.8rem;
+
+    background: #FAFAFA;
+    box-shadow: 0px 2px 11px 0px rgba(0, 0, 0, 0.10);
+}
+
+
+td {
+    width: 95.6%;
+    height: 46px;
+    padding-left: 32px;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    border-bottom: 1px solid #E0E0E0;
+
+
+    background: #FFF;
+
+    text-align: center;
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-family: Lato;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+th {
+    width: 65%;
+    height: 46px;
+    padding-left: 32px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+
+}
+
+tr {
+    width: 65%;
+    min-width: 1040px;
+    height: 51px;
+    font-size: 12px;
+    line-height: 14px;
+    position: relative;
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+
+    background: #FFF;
+
+}
+
+.arrow {
+    margin-left: 4px;
+    width: 0.8rem;
+    height: 0.5rem;
+}
+
+.data-num {
+    color: #000;
+    font-family: Lato;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

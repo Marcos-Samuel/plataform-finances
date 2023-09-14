@@ -1,0 +1,57 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+    width: 100vw;
+    height: 10vh;
+}
+
+.header div:first-child {
+    display: flex;
+    align-items: center;
+
+}
+
+.header div:last-child {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+
+    margin-right: 10px;
+}
+
+.header div:first-child h1 {
+    font-family: Rubik;
+    font-size: 3.6rem;
+    font-weight: 700;
+    line-height: 4.3rem;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+.avatar-icon {
+    width: 56px;
+    height: 56px;
+}
+
+.user-info p {
+    margin-right: 20px;
+
+    font-family: Rubik;
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.7rem;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.logout-icon {
+    width: 22px;
+    height: 27.5px;
+}

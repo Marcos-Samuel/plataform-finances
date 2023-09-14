@@ -1,0 +1,94 @@
+.container-statements {
+    width: 236px;
+    height: 300px;
+
+    position: fixed;
+
+    right: 200px;
+    top: 250px;
+}
+
+.container-statements button {
+    width: 236px;
+    height: 46px;
+    border-radius: 5px;
+
+    background-color: #7978D9;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.content-statements {
+    width: 236px;
+    height: 196px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    background: #FAFAFA;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+    color: #2F2F2F;
+    font-size: 1.8rem;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.div-margin {
+
+    margin: 4rem 0;
+
+
+}
+
+.container-statements span {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+
+    color: #2F2F2F;
+
+    font-family: Rubik;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.container-statements strong {
+    margin-right: 40px;
+
+    font-family: Rubik;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.balance {
+    color: #3A9FF1;
+
+    font-family: Rubik;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.content-entries-exits {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
