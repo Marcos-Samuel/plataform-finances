@@ -1,4 +1,4 @@
-# Apresentação do Projeto: Controle de Finanças Pessoais (DinDin 2.0)
+# Apresentação do Projeto: Controle de Finanças Pessoais (MoneyFacil)
 
 ## Tecnologias Utilizadas
 
