@@ -68,6 +68,6 @@ Os usuários também podem editar o perfil, clicando no ícone correspondente no
 
 ## Conclusão
 
-O projeto "Controle de Finanças Pessoais" (DinDin 2.0) é uma aplicação completa e intuitiva que permite aos usuários gerenciar suas finanças de forma prática e segura. Com funcionalidades essenciais, como cadastro de usuário, login, cadastro de transações e resumo financeiro, além de funcionalidades extras, como ordenação da tabela e edição do perfil, nossa aplicação oferece uma experiência rica para os usuários.
+O projeto "Controle de Finanças Pessoais"  é uma aplicação completa e intuitiva que permite aos usuários gerenciar suas finanças de forma prática e segura. Com funcionalidades essenciais, como cadastro de usuário, login, cadastro de transações e resumo financeiro, além de funcionalidades extras, como ordenação da tabela e edição do perfil, nossa aplicação oferece uma experiência rica para os usuários.
 
 Esperamos que você tenha gostado de conhecer nosso projeto e que ele possa ser útil para auxiliar as pessoas a organizarem suas finanças de maneira eficiente. Agradecemos pela atenção e estamos à disposição para qualquer dúvida ou esclarecimento adicional. Obrigado!
